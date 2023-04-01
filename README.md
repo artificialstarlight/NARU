@@ -14,7 +14,3 @@ All sprites and pixel art for this game were made entirely by me.
 # Code 
 All code for this game written by me. It's probably not the best code in terms of optimization and good programming practices, though.
 
-# Copyright
-Feel free to use this game as a base for your own games, but don't steal or claim your own my sprites and artwork, the name NARU for the main character, or "borrowing" the majority of my code line by line without permission. Also, don't make money off of my game, my code, or my art, which means don't sell any of it. Not that it's good enough for that, it's just I don't want my stuff stolen.
-Also thanks to the creator of Axe Parser for the awesome language.
-
